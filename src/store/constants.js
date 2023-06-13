@@ -1,0 +1,10 @@
+// Define your constants here
+
+export const FETCH_MAILS = "FETCH_MAILS";
+export const FETCH_MAILS_SUCCESS = "FETCH_MAILS_SUCCESS";
+export const FETCH_MAILS_FAILURE = "FETCH_MAILS_FAILURE";
+export const SELECT_MAIL = "SELECT_MAIL";
+export const FILTER_MAIL = "FILTER_MAIL";
+export const FILTER_MAILS_SUCCESS = "FILTER_MAILS_SUCCESS";
+export const SEARCH_MAIL = "SEARCH_MAIL";
+export const SEARCH_MAIL_SUCCESS = "SEARCH_MAIL_SUCCESS";
